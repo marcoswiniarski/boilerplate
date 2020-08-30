@@ -1,30 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Esse é um projeto [Next.js](https://nextjs.org/) iniciado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Todo configurado e pronto para uso. Este boilerplate contêm, React, Typescript, SSR, Jest e Styled components.
 
-## Getting Started
+## Começando
 
-First, run the development server:
+Primeiro, clone o repositório:
 
 ```bash
-npm run dev
-# or
-yarn dev
+git clone https://github.com/marcoswiniarski/boilerplate-nextjs-ts-jest
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Instale as dependências:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+yarn install
+#ou
+npm install
+```
 
-## Learn More
+Por último, rode o servidor de desenvolvimento:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+yarn dev
+#ou
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Você pode começar a editar o projeto a partir de `src/pages/index.tsx`.
 
-## Deploy on Vercel
+## Aprenda mais
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Como esse projeto e gerado a partir do Nextjs. Você checar a documentação para aprender os recursos desse framework.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Next.js Documentation](https://nextjs.org/docs).
+- [Learn Next.js](https://nextjs.org/learn).
