@@ -6,7 +6,7 @@ Todo configurado e pronto para uso. Este boilerplate contêm, React, Typescript,
 Primeiro, clone o repositório:
 
 ```bash
-git clone https://github.com/marcoswiniarski/boilerplate-nextjs-ts-jest
+git clone https://github.com/marcoswiniarski/boilerplate-nextjs-react-ts
 ```
 
 Instale as dependências:
@@ -31,7 +31,7 @@ Você pode começar a editar o projeto a partir de `src/pages/index.tsx`.
 
 ## Aprenda mais
 
-Como esse projeto e gerado a partir do Nextjs. Você checar a documentação para aprender os recursos desse framework.
+Como esse projeto e gerado a partir do Nextjs. Você pode checar a documentação para aprender os recursos desse framework.
 
-- [Next.js Documentation](https://nextjs.org/docs).
-- [Learn Next.js](https://nextjs.org/learn).
+- [Documentação Next.js](https://nextjs.org/docs).
+- [Aprenda Next.js](https://nextjs.org/learn).
