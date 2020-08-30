@@ -1,7 +1,8 @@
 {
-  "name": "boilerplate-with-next",
+  "name": "boilerplate-nextjs-ts-jest",
   "version": "0.1.0",
   "private": true,
+  "description": "Boilerplate configurado para uso com Nextjs, React, Typescript, Jest e Styled Components",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
