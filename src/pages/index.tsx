@@ -14,7 +14,7 @@ const Home = ({ title = 'Boilerplate com NextJS, ReactJS, Typescript e StyledCom
       Sem stress, configurado e pronto para uso. Experimente !
     </S.Description>
     <S.Info>
-      Para começar é so editar o <code className='code'>pages/index.tsx</code>
+      Para começar é so editar o arquivo <code className='code'>pages/index.tsx</code>
     </S.Info>
   </S.Main>
 )
