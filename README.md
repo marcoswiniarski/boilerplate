@@ -8,6 +8,7 @@ Contêm as seguintes tecnologias.
 - [NextJS](https://nextjs.org/)
 - [Jest](https://jestjs.io/)
 - [Styled Components](https://styled-components.com/)
+- [Storybook](https://storybook.js.org/)
 
 ## Começando
 

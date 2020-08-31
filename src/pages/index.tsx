@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import * as S from 'styles/index'
+import * as S from '../styles/index'
 
 const Home = ({ title = 'Boilerplate com NextJS, ReactJS, Typescript e StyledComponents' }) => (
   <S.Main>
