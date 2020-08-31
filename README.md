@@ -1,23 +1,17 @@
 Esse é um projeto [Next.js](https://nextjs.org/) iniciado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Todo configurado e pronto para uso. Este boilerplate contêm, React, Typescript, SSR, Jest e Styled components.
+
+Sem stress, todo configurado e pronto para uso.
+
+Contêm as seguintes tecnologias.
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [NextJS](https://nextjs.org/)
+- [Jest](https://jestjs.io/)
+- [Styled Components](https://styled-components.com/)
 
 ## Começando
 
-Primeiro, clone o repositório:
-
-```bash
-git clone https://github.com/marcoswiniarski/boilerplate-nextjs-react-ts
-```
-
-Instale as dependências:
-
-```bash
-yarn install
-#ou
-npm install
-```
-
-Por último, rode o servidor de desenvolvimento:
+Rode o servidor de desenvolvimento:
 
 ```bash
 yarn dev
@@ -27,7 +21,7 @@ npm run dev
 
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-Você pode começar a editar o projeto a partir de `src/pages/index.tsx`.
+Você pode começar a editar o projeto a partir de `pages/index.tsx`.
 
 ## Aprenda mais
 
