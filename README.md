@@ -26,7 +26,7 @@ Você pode começar a editar o projeto a partir de `pages/index.tsx`.
 
 ## Aprenda mais
 
-Como esse projeto e gerado a partir do Nextjs. Você pode checar a documentação para aprender os recursos desse framework.
+Como esse projeto é gerado a partir do Nextjs. Você pode checar a documentação para aprender os recursos desse framework.
 
 - [Documentação Next.js](https://nextjs.org/docs).
 - [Aprenda Next.js](https://nextjs.org/learn).
